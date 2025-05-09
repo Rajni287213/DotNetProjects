@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|c:\\users\\anna ashok\\source\\repos\\group project\\group project\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|solutionrelative:group project\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|c:\\users\\anna ashok\\source\\repos\\group project\\group project\\productlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|solutionrelative:group project\\productlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|c:\\users\\anna ashok\\source\\repos\\group project\\group project\\product.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|solutionrelative:group project\\product.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|c:\\users\\anna ashok\\source\\repos\\group project\\group project\\categorylist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|solutionrelative:group project\\categorylist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|c:\\users\\anna ashok\\source\\repos\\group project\\group project\\categorylist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|solutionrelative:group project\\categorylist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|c:\\users\\anna ashok\\source\\repos\\group project\\group project\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|solutionrelative:group project\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|c:\\users\\anna ashok\\source\\repos\\group project\\group project\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|solutionrelative:group project\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|c:\\users\\anna ashok\\source\\repos\\group project\\group project\\productlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|solutionrelative:group project\\productlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|c:\\users\\anna ashok\\source\\repos\\group project\\group project\\productdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|solutionrelative:group project\\productdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|c:\\users\\anna ashok\\source\\repos\\group project\\group project\\productdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|solutionrelative:group project\\productdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|c:\\users\\anna ashok\\source\\repos\\group project\\group project\\product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|solutionrelative:group project\\product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|c:\\users\\anna ashok\\source\\repos\\group project\\group project\\orderconfirmation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|solutionrelative:group project\\orderconfirmation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|c:\\users\\anna ashok\\source\\repos\\group project\\group project\\adminpanel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|solutionrelative:group project\\adminpanel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|c:\\users\\anna ashok\\source\\repos\\group project\\group project\\orderconfirmation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|solutionrelative:group project\\orderconfirmation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|c:\\users\\anna ashok\\source\\repos\\group project\\group project\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|solutionrelative:group project\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|c:\\users\\anna ashok\\source\\repos\\group project\\group project\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|solutionrelative:group project\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|c:\\users\\anna ashok\\source\\repos\\group project\\group project\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|solutionrelative:group project\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|c:\\users\\anna ashok\\source\\repos\\group project\\group project\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|solutionrelative:group project\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|c:\\users\\anna ashok\\source\\repos\\group project\\group project\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|solutionrelative:group project\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|c:\\users\\anna ashok\\source\\repos\\group project\\group project\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|solutionrelative:group project\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|c:\\users\\anna ashok\\source\\repos\\group project\\group project\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|solutionrelative:group project\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|c:\\users\\anna ashok\\source\\repos\\group project\\group project\\checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|solutionrelative:group project\\checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|c:\\users\\anna ashok\\source\\repos\\group project\\group project\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|solutionrelative:group project\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|c:\\users\\anna ashok\\source\\repos\\group project\\group project\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|solutionrelative:group project\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|c:\\users\\anna ashok\\source\\repos\\group project\\group project\\adminpanel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D3232E83-DED7-48E1-94D3-E7CA92B7BCB3}|Group Project\\Group Project.csproj|solutionrelative:group project\\adminpanel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Group Project\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\Models\\CartItem.cs",
+              "RelativeToolTip": "Group Project\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:35:35.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\Site1.Master",
+              "RelativeDocumentMoniker": "Group Project\\Site1.Master",
+              "ToolTip": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\Site1.Master",
+              "RelativeToolTip": "Group Project\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-12T04:27:40.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductList.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\ProductList.aspx.cs",
+              "RelativeDocumentMoniker": "Group Project\\ProductList.aspx.cs",
+              "ToolTip": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\ProductList.aspx.cs",
+              "RelativeToolTip": "Group Project\\ProductList.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMIAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:19:56.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductList.aspx",
+              "DocumentMoniker": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\ProductList.aspx",
+              "RelativeDocumentMoniker": "Group Project\\ProductList.aspx",
+              "ToolTip": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\ProductList.aspx",
+              "RelativeToolTip": "Group Project\\ProductList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-12T04:19:52.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cart.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\Cart.aspx.cs",
+              "RelativeDocumentMoniker": "Group Project\\Cart.aspx.cs",
+              "ToolTip": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\Cart.aspx.cs",
+              "RelativeToolTip": "Group Project\\Cart.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:57:11.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryList.aspx",
+              "DocumentMoniker": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\CategoryList.aspx",
+              "RelativeDocumentMoniker": "Group Project\\CategoryList.aspx",
+              "ToolTip": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\CategoryList.aspx",
+              "RelativeToolTip": "Group Project\\CategoryList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-12T03:57:22.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryList.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\CategoryList.aspx.cs",
+              "RelativeDocumentMoniker": "Group Project\\CategoryList.aspx.cs",
+              "ToolTip": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\CategoryList.aspx.cs",
+              "RelativeToolTip": "Group Project\\CategoryList.aspx.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:57:34.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\Product.aspx.cs",
+              "RelativeDocumentMoniker": "Group Project\\Product.aspx.cs",
+              "ToolTip": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\Product.aspx.cs",
+              "RelativeToolTip": "Group Project\\Product.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:10:32.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\ProductDetails.aspx.cs",
+              "RelativeDocumentMoniker": "Group Project\\ProductDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\ProductDetails.aspx.cs",
+              "RelativeToolTip": "Group Project\\ProductDetails.aspx.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAiwJMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:15:00.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\ProductDetails.aspx",
+              "RelativeDocumentMoniker": "Group Project\\ProductDetails.aspx",
+              "ToolTip": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\ProductDetails.aspx",
+              "RelativeToolTip": "Group Project\\ProductDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-12T04:14:57.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.aspx",
+              "DocumentMoniker": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\Product.aspx",
+              "RelativeDocumentMoniker": "Group Project\\Product.aspx",
+              "ToolTip": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\Product.aspx",
+              "RelativeToolTip": "Group Project\\Product.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-12T04:10:25.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderConfirmation.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\OrderConfirmation.aspx.cs",
+              "RelativeDocumentMoniker": "Group Project\\OrderConfirmation.aspx.cs",
+              "ToolTip": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\OrderConfirmation.aspx.cs",
+              "RelativeToolTip": "Group Project\\OrderConfirmation.aspx.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwB8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:08:07.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderConfirmation.aspx",
+              "DocumentMoniker": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\OrderConfirmation.aspx",
+              "RelativeDocumentMoniker": "Group Project\\OrderConfirmation.aspx",
+              "ToolTip": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\OrderConfirmation.aspx",
+              "RelativeToolTip": "Group Project\\OrderConfirmation.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-12T04:08:01.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Logout.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\Logout.aspx.cs",
+              "RelativeDocumentMoniker": "Group Project\\Logout.aspx.cs",
+              "ToolTip": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\Logout.aspx.cs",
+              "RelativeToolTip": "Group Project\\Logout.aspx.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwCAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:06:39.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Logout.aspx",
+              "DocumentMoniker": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\Logout.aspx",
+              "RelativeDocumentMoniker": "Group Project\\Logout.aspx",
+              "ToolTip": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\Logout.aspx",
+              "RelativeToolTip": "Group Project\\Logout.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-12T04:06:37.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Group Project\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\Login.aspx.cs",
+              "RelativeToolTip": "Group Project\\Login.aspx.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:03:00.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminPanel.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\AdminPanel.aspx.cs",
+              "RelativeDocumentMoniker": "Group Project\\AdminPanel.aspx.cs",
+              "ToolTip": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\AdminPanel.aspx.cs",
+              "RelativeToolTip": "Group Project\\AdminPanel.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:56:49.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\Login.aspx",
+              "RelativeDocumentMoniker": "Group Project\\Login.aspx",
+              "ToolTip": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\Login.aspx",
+              "RelativeToolTip": "Group Project\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-12T04:02:57.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "Group Project\\Home.aspx.cs",
+              "ToolTip": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\Home.aspx.cs",
+              "RelativeToolTip": "Group Project\\Home.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:01:23.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\Home.aspx",
+              "RelativeDocumentMoniker": "Group Project\\Home.aspx",
+              "ToolTip": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\Home.aspx",
+              "RelativeToolTip": "Group Project\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-12T04:01:20.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Group Project\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\Global.asax.cs",
+              "RelativeToolTip": "Group Project\\Global.asax.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:01:13.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Checkout.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\Checkout.aspx.cs",
+              "RelativeDocumentMoniker": "Group Project\\Checkout.aspx.cs",
+              "ToolTip": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\Checkout.aspx.cs",
+              "RelativeToolTip": "Group Project\\Checkout.aspx.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwC4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:58:04.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Checkout.aspx",
+              "DocumentMoniker": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\Checkout.aspx",
+              "RelativeDocumentMoniker": "Group Project\\Checkout.aspx",
+              "ToolTip": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\Checkout.aspx",
+              "RelativeToolTip": "Group Project\\Checkout.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-12T03:57:57.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Cart.aspx",
+              "DocumentMoniker": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\Cart.aspx",
+              "RelativeDocumentMoniker": "Group Project\\Cart.aspx",
+              "ToolTip": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\Cart.aspx",
+              "RelativeToolTip": "Group Project\\Cart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-12T03:56:56.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminPanel.aspx",
+              "DocumentMoniker": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\AdminPanel.aspx",
+              "RelativeDocumentMoniker": "Group Project\\AdminPanel.aspx",
+              "ToolTip": "C:\\Users\\Anna Ashok\\source\\repos\\Group Project\\Group Project\\AdminPanel.aspx",
+              "RelativeToolTip": "Group Project\\AdminPanel.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-12T03:56:44.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

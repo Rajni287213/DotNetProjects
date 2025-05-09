@@ -1,0 +1,199 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Group_Project.Site1" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title></title>
+
+    <script src="Scripts/jquery-3.7.1.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
+
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/styles.css" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+<body>
+    <form id="form1" runat="server">
+
+        <!-- Social Media Icons Row -->
+        <div class="d-flex justify-content-end w-100" id="socialmedia-icons">
+            <ul class="navbar-nav" id="socialmedia-ul" style="margin-bottom: 0;">
+                <li class="nav-item me-3">
+                    <a class="nav-link" href="https://facebook.com" target="_blank">
+                        <i class="fab fa-facebook"></i>
+                    </a>
+                </li>
+                <li class="nav-item me-3">
+                    <a class="nav-link" href="https://twitter.com" target="_blank">
+                        <i class="fab fa-twitter"></i>
+                    </a>
+                </li>
+                <li class="nav-item me-3">
+                    <a class="nav-link" href="https://instagram.com" target="_blank">
+                        <i class="fab fa-instagram"></i>
+                    </a>
+                </li>
+            </ul>
+        </div>
+
+        <!-- Navbar -->
+        <asp:ContentPlaceHolder ID="navbarPlaceHolder" runat="server">
+
+            <nav class="navbar navbar-expand-lg bg-primary navbar-dark">
+                <div class="container-fluid">
+                    <!-- Brand -->
+                    <asp:Image ID="Image1" runat="server" src="../images/logo1.png" />
+                    <a class="navbar-brand" href="home">Aura & Aesthetics</a>
+
+                    <!-- Toggler for Small Screens -->
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#top-nav" 
+                        aria-controls="top-nav" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <!-- Collapsible Links -->
+                    <div class="collapse navbar-collapse" id="top-nav">
+                        <ul class="navbar-nav ms-auto">
+                            <!-- Home Link -->
+                            <li class="nav-item" id="homeLink">
+                                <a class="nav-link" href="home">
+                                    <i class="fas fa-home"></i>Home
+                                </a>
+                            </li>
+
+                            <!-- Shop Link -->
+                            <li class="nav-item" id="shopLink">
+                                <a class="nav-link" href="product">
+                                    <i class="fas fa-store"></i>Shop
+                                </a>
+                            </li>
+
+                            <!-- Cart Link -->
+                            <li class="nav-item" id="cartLink">
+                                <a class="nav-link" href="cart">
+                                    <i class="fas fa-shopping-cart"></i>Cart
+                                </a>
+                            </li>
+
+                            <!-- Admin Panel Link -->
+                            <li class="nav-item" id="adminLink">
+                                <a class="nav-link" href="adminPanel">
+                                    <i class="fas fa-cogs"></i>Admin Panel
+                                </a>
+                            </li>
+
+                            <!-- Product List Link -->
+                            <li class="nav-item" id="productListLink">
+                                <a class="nav-link" href="productList">
+                                    <i class="fas fa-box"></i>Product List
+                                </a>
+                            </li>
+
+                            <!-- Category List Link -->
+                            <li class="nav-item" id="categoryListLink">
+                                <a class="nav-link" href="categoryList">
+                                    <i class="fas fa-th-list"></i>Category List
+                                </a>
+                            </li>
+
+                            <!-- Logout Link -->
+                            <li class="nav-item" id="logoutLink">
+                                <a class="nav-link" href="logout">
+                                    <i class="fas fa-sign-out-alt"></i>Logout
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+
+
+
+        </asp:ContentPlaceHolder>
+
+        <!-- Main Content Placeholder -->
+        <main>
+            <asp:ContentPlaceHolder ID="mainPlaceHolder1" ClientIDMode="Static" runat="server">
+            </asp:ContentPlaceHolder>
+        </main>
+
+        <!-- Footer -->
+        <asp:ContentPlaceHolder ID="footerPlaceHolder1" runat="server">
+
+            <footer class="footer">
+                <div class="container">
+                    <div class="footer-div">
+                        <div class="text-center mt-2">
+                            <!-- Brand -->
+                            <div class="footer-brand">
+                                <asp:Image ID="Image2" runat="server" src="../images/logo-footer.png" />
+                                <a class="footer-brand" href="home">Aura & Aesthetics</a>
+                                <p>Your one-stop shop for quality products and great deals.</p>
+                            </div>
+
+                        </div>
+                        <div class="text-center mt-2">
+                            <h5>Team Members</h5>
+                            <ul>
+                                <li>Aparna Girijia Ashokan (8983519)</li>
+                                <li>Janvi Dhameliya (8893709)</li>
+                                <li>Rajni Rajni (8838072)</li>
+                                <li>Rohil Shobhashana (8970375)</li>
+                                <li>Saksham Sood (8983034)</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="text-center mt-3" id="copyright-div">
+                    <p>&copy; 2024 Aura & Aesthetics. All rights reserved.</p>
+                </div>
+            </footer>
+
+        </asp:ContentPlaceHolder>
+
+    </form>
+
+    <script>
+        window.onload = function () {
+            // Get the session status directly from the server-side code
+            var status = '<%= Session["Status"] %>';
+
+            // Hide all links initially
+            var links = [
+                'homeLink',
+                'shopLink',
+                'cartLink',
+                'adminLink',
+                'productListLink',
+                'categoryListLink',
+                'logoutLink',
+            ];
+            links.forEach(linkId => {
+                document.getElementById(linkId).style.display = 'none';
+            });
+
+            // Show specific links based on the user role
+            if (status === 'admin') {
+                document.getElementById('adminLink').style.display = 'block';
+                document.getElementById('productListLink').style.display = 'block';
+                document.getElementById('categoryListLink').style.display = 'block';
+                document.getElementById('logoutLink').style.display = 'block';
+            } else {
+                document.getElementById('homeLink').style.display = 'block';
+                document.getElementById('shopLink').style.display = 'block';
+                document.getElementById('cartLink').style.display = 'block';
+                document.getElementById('logoutLink').style.display = 'block';
+            }
+        };
+
+    </script>
+
+
+</body>
+</html>
+
